@@ -15,5 +15,6 @@ class newone{
         int a = sc.nextInt();
         int b = sc.nextInt();
         System.out.println(obj.gcd(a,b));
+        System.out.println("end of the program");
     }
 }
