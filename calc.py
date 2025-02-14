@@ -1,4 +1,5 @@
-a =15
+
+a =40
 b=20
 print("sum:",a+b)
 print("diff:",a-b)
